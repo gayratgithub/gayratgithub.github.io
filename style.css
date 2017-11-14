@@ -1,0 +1,94 @@
+
+#example2 {
+    border: 5px solid black;
+    background:url(part.jpg);
+    background-size: 1500px 800px;
+    background-repeat: no-repeat;
+    padding:150px;
+
+}
+#example1 {
+    border: 5px solid black;
+    background:url(part.jpg);
+    background-size: 1500px 800px;
+    background-repeat: no-repeat;
+    padding:150px;
+
+}
+
+
+
+
+
+
+
+#example5 {
+    border: 5px solid black;
+    background:url(imagesuz.jpg);
+    background-size: 1500px 800px;
+    background-repeat: no-repeat;
+    padding:150px;
+
+}
+
+
+ul#menu {
+    padding: 0;
+    
+}
+
+ul#menu li {
+    display: inline;
+
+
+}
+
+ul#menu li a {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px 5px 0px 0px;
+    
+}
+
+ul#menu li a:hover {
+    background-color: red;
+    box-shadow: 10px 10px 10px 0px black;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+
+h1{
+	color:maroon;
+	margin-right: 100px;
+}
+h3:hover
+{
+  background-color: red;
+}
+#menus1
+{
+	float:left; margin-left: 20px; padding: 5px;margin-top: -205px;
+}
+#menus2
+{
+	float:left; margin-left: 20px; padding: 5px;margin-top: -150px;
+}
+#menus3
+{
+	float:left; margin-left: 20px; padding: 5px;margin-top: -100px;
+}
+#menus4
+{
+	float:left; margin-left: 20px; padding: 5px;margin-top: -50px;
+}
+#menus5
+{
+	float:left; margin-left: -138px; padding: 5px;margin-top: -0px;
+}
+#menus6
+{
+	float:left; margin-left: -193px; padding: 5px;margin-top: 50px;
+}
